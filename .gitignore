@@ -1,0 +1,7 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio 2015 cache/options directory
+.vscode/
+
